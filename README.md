@@ -40,6 +40,6 @@ The application should now be running at `http://127.0.0.1:8000/`.
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
