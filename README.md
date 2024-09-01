@@ -13,7 +13,7 @@ To set up the project on your local machine, follow these steps:
 
 2. **Activate the virtual environment**:
     ```bash
-    env\Scripts\activate`
+    venv\Scripts\activate`
     ```
 
 3. **Install the required dependencies**:
